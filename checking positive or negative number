@@ -1,0 +1,17 @@
+package week1day1assignment;
+
+public class negativenumberorpositivenumber{
+	
+public static void main(String[] args) {
+	else
+	int number=-100;
+	if(number>0)
+		System.out.println("Positive");
+	else if(number<0)
+		System.out.println("Negative");
+		System.out.println("Zero");
+
+	
+}
+
+}
